@@ -3,7 +3,7 @@
 
 ### 미리보기
 #### 홈페이지
-<img src="website_images/HomePage.gif" width="900">
+<img src="website_images/HomePage2.gif" width="900">
 
 
 #### 소개
